@@ -1,0 +1,7 @@
+Parameters,Values
+$\beta$, "\{0.2, 0.5, 0.8, 1.0\}"
+$\text{L}_{\text{dim}}$, "\{50, 100\}"
+$\sigma$, "\{0.5, 0.8, 1.0, 2.0, 3.0, 10\}"
+step size $\lambda$, 1e-3
+Langevian dynamics steps, 100
+samples of $\boldsymbol{z}$ for MC estimation, 500

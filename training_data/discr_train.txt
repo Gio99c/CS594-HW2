@@ -1,0 +1,8 @@
+Parameters,Values
+$\beta$, "\{0.2, 0.5, 0.8, 1.0\}"
+$\text{L}_{\text{dim}}$, "\{50, 100\}"
+optimizer, Adam
+loss, BCE
+training epochs, 20
+learning rate, 1e-3
+batch size, 64
